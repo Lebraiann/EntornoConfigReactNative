@@ -1,1 +1,1 @@
-# EntornoConfigReactNative
+# EntornoConfig
